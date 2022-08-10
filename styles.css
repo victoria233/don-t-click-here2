@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 167, 182);
+}
+
+.boton1 {
+    color: rgba(251, 255, 0, 0.877);
+    margin-block-start: 40px;
+    font-family: cursive;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: rgb(0, 225, 255);
+    background-color: rgb(185, 0, 40);
+    margin-bottom: 40px;
+}
