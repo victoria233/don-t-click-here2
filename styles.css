@@ -1,12 +1,21 @@
 .boton1 {
-    color: rgba(251, 255, 0, 0.877);
+    color: rgba(0, 0, 0, 0.616);
     margin-block-start: 40px;
     font-family: cursive;
-    padding: 10px;
-    border-radius: 5px;
-    border-color: rgb(0, 225, 255);
-    background-color: rgb(185, 0, 40);
-    margin-bottom: 40px;
+    padding: 8px;
+    /* margin-bottom: 40px; */
+    border: 5px dotted rgb(0, 225, 255);
+    background-image: linear-gradient(to right, rgb(245, 43, 77), lightgreen);
+}
+
+.boton2 {
+    color: rgba(255, 255, 255, 0.76);
+    /* margin-block-start: 40px; */
+    font-family: monospace;
+    padding: 8px;
+    background-color: rgb(15, 185, 0);
+    border: 4px dashed rgb(0, 4, 255);
+    background-image: linear-gradient(to right, rgb(185, 0, 40), rgb(203, 255, 14));
 }
 
 body {

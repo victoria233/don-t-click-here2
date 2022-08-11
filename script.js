@@ -15,6 +15,10 @@ if (welcome(conf)) {
 }
 
 
-function redireccion() {
+function catvideo() {
     location.href = "https://www.youtube.com/watch?v=uHKfrz65KSU"
+}
+
+function dogsvideo() {
+    location.href = "https://www.youtube.com/watch?v=X2lIovmNsUY"
 }
